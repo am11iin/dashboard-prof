@@ -1,1 +1,1 @@
-# dashboard-prof
+# dashboard-teacher
